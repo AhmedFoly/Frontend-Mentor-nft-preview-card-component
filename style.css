@@ -16,7 +16,7 @@ body {
 
 .card {
     background-color: var(--card-BG);
-    /* margin: 137px auto 0; */
+    margin: 137px auto 0;
     padding: 20px;
     width: 315px;
     height: 555px;
