@@ -40,7 +40,7 @@ body {
 
 .eye::before{
     position: absolute;
-    content: url(/images/icon-view.svg);
+    content: url(./images/icon-view.svg);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);    
@@ -91,7 +91,7 @@ body {
 }
 
 .value::before {
-    content: url(/images/icon-ethereum.svg);
+    content: url(./images/icon-ethereum.svg);
     position: absolute;
     left: 0;
     top: 3px;
@@ -104,7 +104,7 @@ body {
 }
 
 .time::before {
-    content: url(/images/icon-clock.svg);
+    content: url(./images/icon-clock.svg);
     position: absolute;
     left: 0;
     top: 2px;
