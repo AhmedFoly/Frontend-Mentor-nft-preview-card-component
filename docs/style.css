@@ -18,14 +18,14 @@ body {
     background-color: var(--card-BG);
     margin: 137px auto 0;
     padding: 20px;
-    width: 315px;
+    width: 320px;
     height: 555px;
     border-radius: 10px;
 }
 
 .img-container {
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 
@@ -45,13 +45,9 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);    
 }
-
 .eye:hover {
    opacity: .7;
 }
-
-
-
 .card-img {
     max-width: 100%;
     border-radius: 10px;
@@ -60,7 +56,7 @@ body {
 .heading {
     color: var(--White);
     font-weight: 600;
-    font-size: 20px;
+    font-size: 25px;
     margin: 0 0 20px 0;
     padding: 0;
 }
@@ -114,6 +110,7 @@ body {
     color: var(--soft-blue);
     display: flex;
     align-items: center;
+    font-size: 16px;
 }
 
 .footer img {
